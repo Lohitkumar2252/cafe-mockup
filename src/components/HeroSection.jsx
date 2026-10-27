@@ -13,7 +13,7 @@ export default function HeroSection() {
       id="home"
       className=" overflow-hidden bg-[#F8F7ED] px-4 py-8 sm:px-8 lg:px-14"
     >
-      <div className="mx-auto grid max-w-[1440px] items-center gap-10 lg:min-h-[460px] lg:grid-cols-2 lg:gap-8 px-30">
+      <div className="mx-auto grid max-w-[1440px] items-center gap-10 lg:min-h-[460px] lg:grid-cols-2 lg:gap-8 lg:px-30">
         {/* Left: Hero Content */}
         <div className="flex flex-col items-start justify-center">
           <p className="mb-1 text-sm font-medium tracking-wide text-[#FF6666] font-serif">
